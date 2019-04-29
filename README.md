@@ -1,3 +1,4 @@
+![GitHubImage](Documents/githubLogo.png)
 
 
 ## About the projects
